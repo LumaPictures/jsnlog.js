@@ -747,7 +747,7 @@ var JL;
     });
 })(JL || (JL = {}));
 // Support CommonJS module format 
-var exports;
+//var exports;
 if (typeof exports !== 'undefined') {
     exports.JL = JL;
 }
